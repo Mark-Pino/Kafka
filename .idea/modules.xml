@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kafka.iml" filepath="$PROJECT_DIR$/.idea/Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootForKafka/SpringBootConsumer/SpringBootConsumer.iml" filepath="$PROJECT_DIR$/SpringBootForKafka/SpringBootConsumer/SpringBootConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootForKafka/SpringBootProvider/SpringBootProvider.iml" filepath="$PROJECT_DIR$/SpringBootForKafka/SpringBootProvider/SpringBootProvider.iml" />
+    </modules>
+  </component>
+</project>
